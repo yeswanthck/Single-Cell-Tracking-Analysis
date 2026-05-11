@@ -13,7 +13,7 @@ OS Requirements
 
 This package is supported for macOS and windows. The package has been tested on the following systems:
 
-macOS: Tahoe 26.3
+macOS: Tahoe 26.3,
 Windows: Windows 11
 
 Python Dependencies
@@ -21,11 +21,11 @@ Python Dependencies
 This package mainly depends on the Python scientific stack. 
 
 numpy
-cv2
-matplotlib
-pathlib
-scipy
-scikit-image
+cv2,
+matplotlib,
+pathlib,
+scipy,
+scikit-image.
 
 For those wanting to try it out: The best place to start is the ipython/jupiter notebook. This is what you need:
 
