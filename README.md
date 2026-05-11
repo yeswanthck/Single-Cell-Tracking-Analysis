@@ -32,3 +32,4 @@ For those wanting to try it out: The best place to start is the ipython notebook
 1. A working version of python with all the dependencies installed. 
 2. The data. 
 
+Unzip the data and put it in the data folder. Once the data is in place, the program can be run in the iPython notebook.  
