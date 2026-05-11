@@ -1,4 +1,4 @@
-Single-Cell-Tracking-Analysis aims to quantitatively analyze confocal timelapse data of Mycobacteria and Pseudomonas to specifically track cell division, cell death and cell stasis.
+Single-Cell-Tracking-Analysis aims to quantitatively analyze confocal timelapse microscopy images of Mycobacteria and Pseudomonas to specifically track cell division, cell death and cell stasis.
 
 
 System Requirements
