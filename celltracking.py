@@ -465,7 +465,7 @@ def visualize_summary(frames: list[np.ndarray], result: dict,
 
 
 if __name__ == "__main__":
-    folder = "/Users/yeshkc/Downloads/24hP04"
+    folder = "/data/14dC01"
 
     frames = load_image_sequence(folder)
     result = run_pipeline(frames)
