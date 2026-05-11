@@ -25,7 +25,7 @@ cv2
 matplotlib
 pathlib
 scipy
-skimage
+scikit-image
 
 For those wanting to try it out: The best place to start is the ipython notebook. This is what you need:
 
