@@ -41,3 +41,7 @@ Sample data included:
 Currently, all the sample data must be run manually by replacing the folder name with appropriate folder name on line 468. 
 
 The program will analyze frame by frame and output the quantification and perform a quality check by outputting the visualization at each step of the program. The output files will be located in the project folder. The entire process should take a few minutes for each sample data.
+
+License
+
+This project is covered under the Apache 2.0 License.
