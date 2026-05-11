@@ -27,9 +27,17 @@ pathlib
 scipy
 scikit-image
 
-For those wanting to try it out: The best place to start is the ipython notebook. This is what you need:
+For those wanting to try it out: The best place to start is the ipython/jupiter notebook. This is what you need:
 
 1. A working version of python with all the dependencies installed. 
 2. The data. 
 
 Unzip the data and put it in the data folder. Once the data is in place, the program can be run in the iPython notebook.  
+
+Sample data included: 
+14dC01-04
+14dP01-04
+
+Currently, all the sample data must be run manually by replacing the folder name with appropriate folder name on line 468. 
+
+The program will analyze frame by frame and output the quantification and perform a quality check by outputting the visualization at each step of the program. The output files will be located in the project folder. The entire process should take a few minutes for each sample data.
