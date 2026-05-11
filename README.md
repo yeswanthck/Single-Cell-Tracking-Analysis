@@ -37,6 +37,7 @@ Unzip the data and put it in the data folder. Once the data is in place, the pro
 Sample data included: 
 14dC01-04
 14dP01-04
+(Supplementary Fig 6, 14-day pseudolysogeny)
 
 Currently, all the sample data must be run manually by replacing the folder name with appropriate folder name on line 468. 
 
